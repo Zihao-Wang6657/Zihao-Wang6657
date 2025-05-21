@@ -7,7 +7,7 @@ To rearch me:zihaowang6657@gmail.com
 
 关于我：  
 我叫王子豪，华东师范大学软件工程专业在读本科生。  
-熟悉C,C++和python语言，
+熟悉C,C++和python语言，  
 对机器学习十分感兴趣，  
 目前正在学习在线学习，凸优化  
 这是我的邮箱：zihaowang6657@gmail.com
