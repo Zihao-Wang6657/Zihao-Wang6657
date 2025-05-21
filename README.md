@@ -1,12 +1,12 @@
 About me：  
-I'm a student of East China Normal University,majoring in Software Engineering,  
+I'm Zihaowang,an undergraduate student of East China Normal University,majoring in Software Engineering,  
 Familar with C,C++,python,   
 Interested in machine learning,  
 Currently,I'm learning Online Learning and Convex Optimization.    
 To rearch me:zihaowang6657@gmail.com
 
 关于我：  
-我目前就读于华东师范大学软件工程专业。  
+我叫王子豪，华东师范大学软件工程专业在读本科生。  
 熟悉C,C++和python语言，
 对机器学习十分感兴趣，  
 目前正在学习在线学习，凸优化  
