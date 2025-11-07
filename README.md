@@ -1,5 +1,5 @@
 About me：  
-I'm Zihaowang,an undergraduate student of East China Normal University,majoring in Software Engineering,  
+I'm ZihaoWang,an undergraduate student of East China Normal University,majoring in Software Engineering,  
 Familar with C,C++,python,   
 Interested in Distributed Online Learning and Reinforcement Learning,    
 My email:zihaowang6657@gmail.com
