@@ -1,13 +1,13 @@
 About me：  
 I'm ZihaoWang,an undergraduate student of East China Normal University,majoring in Software Engineering,  
 Familar with C,C++,python,   
-Interested in Distributed Online Learning and Reinforcement Learning,    
+Interested in Learning theory, especially Online Learning & Bandits,    
 My email:zihaowang6657@gmail.com
 
 关于我：  
 我叫王子豪，华东师范大学软件工程专业在读本科生。  
 熟悉C,C++和python语言，  
-对分布式在线学习和强化学习十分感兴趣，  
+对Learning theory 特别是Online Learning & bandits 问题感兴趣，  
 这是我的邮箱：zihaowang6657@gmail.com
 
 
