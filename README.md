@@ -7,7 +7,7 @@ My email:zihaowang6657@gmail.com
 关于我：  
 我叫王子豪，华东师范大学软件工程专业在读本科生。  
 熟悉C,C++和python语言，  
-对Machine Learning, artificial intelligence 等领域十分感兴趣   
+对机器学习和人工智能领域感兴趣,   
 这是我的邮箱：zihaowang6657@gmail.com
 
 
