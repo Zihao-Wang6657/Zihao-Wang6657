@@ -1,12 +1,10 @@
 About me：  
-I'm ZihaoWang,an undergraduate student of East China Normal University,majoring in Software Engineering,  
-Familar with C,C++,python,   
+I'm ZihaoWang,an undergraduate student of East China Normal University,majoring in Software Engineering,   
 Interested in Machine Learning , especially Learning Theory and Optimization,    
 My email:zihaowang6657@gmail.com
 
 关于我：  
 我叫王子豪，华东师范大学软件工程专业在读本科生。  
-熟悉C,C++和python语言，  
 对机器学习, 特别是学习理论以及优化感兴趣,   
 这是我的邮箱：zihaowang6657@gmail.com
 
